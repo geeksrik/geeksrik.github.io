@@ -6,7 +6,7 @@ relative_permalinks: true
 
 highlighter: pygments
 
-timezone: Europe/Helsinki
+timezone: Asia/Kolkata
 
 # Tagging settings
 tag_title_prefix:   "Posts tagged #"
@@ -23,11 +23,11 @@ image_base:          /public/images/
 #fb_appid:           337414769782635
 
 # Setup
-title:               Vitaly Repin
-tagline:             Sapere aude!
-url:                 "http://vrepin.org"
+title:               Srikanth Eswaran
+tagline:             the geek whoz a srik!
+url:                 "http://srik.in"
 paginate:            4
-baseurl:             "/vr"
+baseurl:             "/"
 
 # Assets
 #
@@ -45,15 +45,15 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/vitalyrepin/vrepinblog
+  repo:              https://github.com/geeksrik/geeksrik.github.io
 
 # Google sitemap generation
 gems:
   - jekyll-sitemap
 
 pages_list:
-  About: '/vr/about/'
-  Hobby projects: '/vr/hobbies/'
-  Tags: '/vr/tags/'
-  Feed: '/vr/atom.xml'
+  About: '/about/'
+  Hobby projects: '/hobbies/'
+  Tags: '/tags/'
+  Feed: '/atom.xml'
 

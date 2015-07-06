@@ -5,7 +5,7 @@ title: 						"EckoThemes"
 email: 						"support@ecko.me"
 description: 				"Astro is a content focused responsive theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
 baseurl: 					""
-url: 						"http://astrojek.ecko.me"
+url: 						"http://geeksrik.github.io"
 logourl: 					"/assets/img/bloglogo.jpg"		
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5
@@ -32,7 +32,7 @@ linkedin_url:  				"http://linkedin.com"
 
 
 # Theme Settings
-theme_disqus_shortname: 	"ecko"
+theme_disqus_shortname: 	"geeksrik"
 theme_google_comments: 		false
 theme_analytics_id: 		"UA-28282324-1"
 theme_analytics_domain: 	"ecko.me"

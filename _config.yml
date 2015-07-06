@@ -1,59 +1,38 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+pygments:         true
+
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink: "/:title"
-relative_permalinks: true
-
-highlighter: pygments
-
-timezone: Asia/Kolkata
-
-# Tagging settings
-tag_title_prefix:   "Posts tagged #"
-tag_title_suffix:   ""
-
-# Facebook settings
-fb_admins:          606660677
-avatar:             "/public/images/me_hires.png"
-locale:             en_US
-
-# Image settings
-image_base:          /public/images/
-
-#fb_appid:           337414769782635
+permalink:        pretty
 
 # Setup
-title:               Srikanth Eswaran
-tagline:             the geek whoz a srik!
-url:                 "http://srik.in"
-paginate:            4
-baseurl:             "/"
+title:            Joshua Lande
+tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
+url:              http://www.joshualande.com
+shorturl:         joshualande.com
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
 author:
-  name:              Vitaly Repin
-  url:               https://twitter.com/vitalyrepin
-  email:             vitaly_repin@fsfe.org
+  name:           'Joshua Lande'
+  url:            https://twitter.com/joshualande
+
+paginate:         1
 
 # Custom vars
-version:             1.0.0
+version:          1.0.0
+
 github:
-  repo:              https://github.com/geeksrik/geeksrik.github.io
+  repo:           github.com/joshualande/joshualande.github.io
 
-# Google sitemap generation
-gems:
-  - jekyll-sitemap
-
-pages_list:
+# This is the list of pages to include in the header of the website.
+pages_list:       
   About: '/about/'
-  Hobby projects: '/hobbies/'
-  Tags: '/tags/'
+  Archive: '/archive/'
   Feed: '/atom.xml'
 
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from

@@ -1,33 +1,35 @@
 ---
 layout: page
-title: About
+permalink: /about/
+title: About the Theme
+tagline: A Minimal Jekyll Theme
+tags: [about, Jekyll, theme, responsive]
+modified: 9-9-2013
+comments: true
+image:
+  feature: texture-feature-02.jpg
+  credit: Virginie Moerenhout
+  creditlink: http://www.flickr.com/photos/yndra
 ---
 
-![Here I am at the 2013 Rose Bowl.](/assets/stanford_rosebowl_photo_2013-e1361222975696-940x689.jpg)
+Minimal Jekyll Theme is a responsive Jekyll theme with large featured images and solid typography, derived from the wonderful work of [Michael Rose](http://mademistakes.com). I loved his Minimal Mistakes theme, and have tried to tune it to my needs.
 
-I am a Senior Data Scientist at [Twitter](http://twitter.com) working on
-their analytics team. I have always been fascinated by technology
-and especially tools for analysing and interpreting information.
-I want to use this website to help teach people new skills.
-Recently, I have written about 
-[Jekyll]({% post_url 2014-02-03-jekyll-github-pages-poole %}) and
-[Apache Pig]({% post_url 2014-02-11-cube-rollup-pig-data-science %}).
+### Recent Additions
 
-Before working at Twitter, I was a Data Science Fellow at the
-[Insight Data Science Fellowship](http://insightdatascience.com).
-Before that, I got a PhD in physics from [Stanford
-University](http://stanford.edu) studying [pulsar wind
-Nebulae](http://en.wikipedia.org/wiki/Pulsar_wind_nebula).  I have
-written about my PhD research experience 
-[here]({% post_url 2013-02-14-searching-pulsar-wind-nebulae-kipac %}), and software I helped
-develop during my PhD [here]({% post_url 2013-02-01-pointlike-fitting-package %}).
+* Support for multiple author attribution in a blog.
+  * This includes both different authors for various posts, as well as multiple authors per post.
+* Gorgeous textures courtesy of [Virginie Moerenhout](http://www.flickr.com/photos/yndra)
 
-Before that, I was an undergraduate at [Marlboro
-College](http://www.marlboro.edu/) in Vermont.  I wrote about my
-undergraduate research
-[here]({% post_url 2013-02-14-physics-marlboro-college-vermont %}), as
-well as my research during two undergraduate physics internships
-[here]({% post_url 2013-02-14-health-impact-solar-particle-events-sstorm %}), and
-[here]({% post_url 2013-02-12-simulating-deep-lens-survey-davis %}).
 
-If you like my website, you can follow me on twitter [@joshualande](https://twitter.com/joshualande).
+## Minimal Jeykll Theme - Key Highlights
+
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Minimal embellishments --- content first.
+* Author sidebar to pimp your bio, photo[^1], and social media links.
+* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+
+
+[^1]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).

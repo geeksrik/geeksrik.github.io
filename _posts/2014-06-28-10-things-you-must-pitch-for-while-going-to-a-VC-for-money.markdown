@@ -15,4 +15,4 @@ comments: true
 
 
 
-There are many comments for and against this presentation. Its upto my readers to make their opinions out of this presentation for themselves !
+<p style="text-align: justify;">There are many comments for and against this presentation. Its upto my readers to make their opinions out of this presentation for themselves !.</p>

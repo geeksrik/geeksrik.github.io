@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Enabling TFTP Based Linux Kernel Boot Up (Kernel Loads Directly Into RAM Of Target Board)"

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Enabling TFTP Based Linux Kernel Boot Up (Kernel Loads Directly Into RAM Of Target Board)"
+title:  "Enabling TFTP Based Linux Kernel Boot Up"
 date:   2014-06-28 04:07:49
-categories: VC, funding
+categories:TFTP, linux, kernel, bootup
 banner_image: ""
 featured: false
 comments: true
@@ -16,7 +16,8 @@ comments: true
 4. edit the file /etc/xinetd.d/tftp and change the value ‘disable’ to ‘no’ from ‘yes’
 
 
-``` 
+
+<pre>
 # default: off 
 # description: The tftp server serves files using the trivial file transfer \ 
 # protocol. The tftp protocol is often used to boot diskless \ 
@@ -34,13 +35,11 @@ disable = no <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 per_source = 11 
 cps = 100 2 
 flags = IPv4 
-} 
-```
+}</pre>
 
 
-
-5. Save the file, and restart the xinetd service by issuing ‘/sbin/service xinetd restart’ 
-6. now the TFTP service should be started and the linux kernel should be available for boot from the target side.
+* Save the file, and restart the xinetd service by issuing ‘/sbin/service xinetd restart’ 
+* now the TFTP service should be started and the linux kernel should be available for boot from the target side.
 
 and finally on a target which has a CFE terminal (Custom Firmware Extender), we can use a command such as :
 

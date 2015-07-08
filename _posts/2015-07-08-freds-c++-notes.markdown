@@ -10,16 +10,15 @@ comments: true
 
 I was going through Fred’s C++ site for an example of string streams. This was for a basic requirement of putting in any value into a string, such as a float or an integer, or even more complex values.
 
-<pre>
-#include <iostream>
-#include <sstream>
-using namespace std;
-. . .
-ostringstream outs;  // Declare an output string stream.
-. . .
-outs << sqrt(2.0);   // Convert value into a string.
-s = outs.str();      // Get the created string from the output stream.
-</pre>
+
+    #include <iostream>
+    #include <sstream>
+    using namespace std;
+    . . .
+    ostringstream outs;  // Declare an output string stream.
+    . . .
+    outs << sqrt(2.0);   // Convert value into a string.
+    s = outs.str();  // Get the created string from the output stream.
 
 This example was so simple, yet conveyed the point. The square root of 2.0 was stored into a string stream designated as outs. One could then always get back the string value from ‘outs’ as and when required. If the ostringstream class were not to be there, you can only imagine what pain one has to go through using itoa or its equivalents such as the sprintf command, etc to get the same job done!
 

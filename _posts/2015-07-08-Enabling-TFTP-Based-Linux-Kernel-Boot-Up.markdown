@@ -58,4 +58,3 @@ mode of boot = r – read, w – write, rw – read/write`
 **NOTE**: it is important that we first set up the target board for ethernet connectivity via DHCP or other means such as giving it a static IP address 
 This is easily done with the command: ifconfig eth0 -addr=155.44.55.77;
 
-Technorati : CFE, TFTP, bangalore, baud rate, bengaluru, blog, boot mode, bootp, console, cps, custom firmware extender, dhcp, flags, ifconfig, kernel, linux, mode of boot, patition, per_source, protocol, rarp, rootfs, server, service, target, tcp/ip, technology, terminal, tftpboot, user, vendor, wait, xinetd, xinetd.d

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enabling TFTP Based Linux Kernel Boot Up"
-date:   2014-06-28 04:07:49
+date:   2015-07-08 04:07:49
 categories:TFTP, linux, kernel, bootup
 banner_image: ""
 featured: false

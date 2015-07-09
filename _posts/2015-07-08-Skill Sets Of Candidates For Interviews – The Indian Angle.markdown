@@ -11,6 +11,7 @@ comments: true
 I was called for checking out a few candidates for their suitability for my project when I decided to put in this blog post on what candidates need to have to make it into a team of engineers on a core project. This post comes after having the chance to screen through atleast 100+ resumes of different sorts from different companies in Bangalore.
 
 What an interviewer looks for in a candidate can be classified into some basic categories.
+
 ## Technical skills ##
 
 - Language/Coding skills – Here we look for a basic understanding of the language used in coding a particular project. The most common languages that we look for in an embedded systems perspective would be C/C++. In some cases depending on the project requirement this would change

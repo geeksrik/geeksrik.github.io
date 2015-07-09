@@ -10,7 +10,7 @@ comments: true
 
 I had written an earlier article on Timers in Linux. In this article I share with you a slideshow on what is possible with timers and what is not achievable, so that you may clearly understand how timers can be used during system programming under a linux host or linux target based environment.
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/274711" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> 
+<iframe src="http://www.slideshare.net/slideshow/embed_code/274711" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
 
 ----------

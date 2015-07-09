@@ -13,19 +13,20 @@ I had written an earlier article on Timers in Linux. In this article I share wit
 <iframe src="http://www.slideshare.net/slideshow/embed_code/274711" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> 
 
 
+----------
+
 
 The following points are worth noting about timers
 
-
-- The time is stored relative to a certain date in history (Jan 1, 1970), so when you read the time, its always a number relative to this date. This is called EPOCH time or the UNIX EPOCH time.
-- Each process is allocated one timer, this is called per process timer.
-- iTimers which are of three types: REAL, VIRTUAL and PROF
-- how to initialize countdown timers and use them
-- iTimerVal and timeval structures
-- it_interval, it_value, tv_sec, tv_usec variables and their possible values
-- using the signal handler function to handle timer expiry signals
-- how to set signal handlers while using timers
-- types of signals that can be sent to process or across processes (SIGALRM)
+* The time is stored relative to a certain date in history (Jan 1, 1970), so when you read the time, its always a number relative to this date. This is called EPOCH time or the UNIX EPOCH time.
+* Each process is allocated one timer, this is called per process timer.
+* iTimers which are of three types: REAL, VIRTUAL and PROF
+* how to initialize countdown timers and use them
+* iTimerVal and timeval structures
+* it_interval, it_value, tv_sec, tv_usec variables and their possible values
+* using the signal handler function to handle timer expiry signals
+* how to set signal handlers while using timers
+* types of signals that can be sent to process or across processes (SIGALRM)
 
 
 So its now easy for you to write a small timer program in linux and compile it using the following :

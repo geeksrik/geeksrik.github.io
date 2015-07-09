@@ -11,8 +11,7 @@ comments: true
 I was called for checking out a few candidates for their suitability for my project when I decided to put in this blog post on what candidates need to have to make it into a team of engineers on a core project. This post comes after having the chance to screen through atleast 100+ resumes of different sorts from different companies in Bangalore.
 
 What an interviewer looks for in a candidate can be classified into some basic categories.
-
-# Technical skills #
+## Technical skills ##
 
 - Language/Coding skills – Here we look for a basic understanding of the language used in coding a particular project. The most common languages that we look for in an embedded systems perspective would be C/C++. In some cases depending on the project requirement this would change
 - Design skills – A simple problem (which involves design) is presented to the candidate, and he is expected to bring out a solution in the form of pseudo code or block diagrams or even sequence diagrams at times, depending on the nature of the problem posed. Here the expectation is to understand from the candidate the way in which he approaches this problem, more than to find out whether the end solution is right or not.
@@ -28,7 +27,7 @@ What an interviewer looks for in a candidate can be classified into some basic c
 
 When a candidate is able to satisfy the above listed categories sufficiently, he is then mapped against which of these categories is most important for the current projects. We then come to understand if the candidate’s category expertise matches with the needed categories for the project. This is the end of Stage 1. The next section is about the soft skills required from the candidate. A separate post on this blog will talk about that aspect of an interview.
 
-# Soft skills #
+## Soft skills ##
 
 The second part of this post deals with some soft skills that we look at as interviewers to hire a potential candidate. I shall briefly touch upon a few important things we look at in the soft skills basket; in this post.
 

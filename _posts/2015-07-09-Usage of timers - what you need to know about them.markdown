@@ -16,6 +16,7 @@ I had written an earlier article on Timers in Linux. In this article I share wit
 
 The following points are worth noting about timers:
 
+
 - The time is stored relative to a certain date in history (Jan 1, 1970), so when you read the time, its always a number relative to this date. This is called EPOCH time or the UNIX EPOCH time.
 - Each process is allocated one timer, this is called per process timer.
 - iTimers which are of three types: REAL, VIRTUAL and PROF

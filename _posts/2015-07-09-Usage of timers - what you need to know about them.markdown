@@ -5,7 +5,7 @@ date:   2015-07-09 06:08:49
 categories: Software Development, Timeval, ITimer, SetITimer, GetITimer, Linux, Unix, Timers, Signals, Signal handler, Usage, Sigalrm, Real timer, Virtual timer, Prof timer, Man, Bangalore, Bengaluru, Technology, Blog
 banner_image: ""
 featured: false
-comments: true
+comments: true 
 ---
 
 I had written an earlier article on Timers in Linux. In this article I share with you a slideshow on what is possible with timers and what is not achievable, so that you may clearly understand how timers can be used during system programming under a linux host or linux target based environment.

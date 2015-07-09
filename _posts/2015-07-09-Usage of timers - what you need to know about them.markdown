@@ -14,7 +14,7 @@ I had written an earlier article on Timers in Linux. In this article I share wit
 
 
 
-The following points are worth noting about timers:
+The following points are worth noting about timers
 
 
 - The time is stored relative to a certain date in history (Jan 1, 1970), so when you read the time, its always a number relative to this date. This is called EPOCH time or the UNIX EPOCH time.
@@ -27,13 +27,18 @@ The following points are worth noting about timers:
 - how to set signal handlers while using timers
 - types of signals that can be sent to process or across processes (SIGALRM)
 
+
 So its now easy for you to write a small timer program in linux and compile it using the following :
 
-```gcc timer_example.c p-o timer_example```
+<pre>
+gcc timer_example.c p-o timer_example
+</pre>
 
 run it using
 
-```./timer_example```
+<pre>
+./timer_example
+</pre>
 
 and check your logs to see if the timers did expire properly! As you would be aware the timer is a per process timer which means within a process, if you require timeouts at different intervals it has to be an enhancement over a single timer. So you could expire a single timer every say 1 second or 10 milliseconds or whatever value you want (at a granular level) and provide a specific interrupt to the process or other processes every "N" seconds or milliseconds where "N" is a multiple of the it_value variable within the timeval structure.
 

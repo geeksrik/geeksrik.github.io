@@ -16,7 +16,8 @@ The clue strips stuck on a mirror to start the show read thus
 
 > Hey We've completed 10 years together and you thought I'd let you go without a surprise? Shall we start ?
 
-[![CAM00140.jpg](https://d23f6h5jpj26xu.cloudfront.net/gvkn5ugtieaba_small.jpg)](http://img.svbtle.com/gvkn5ugtieaba.jpg)
+[![1.jpg](http://geeksrik.github.io/media/th/1.jpg)](http://geeksrik.github.io/media/th/1.jpg)
+
 
 Rip the sheet and you found the clues :
 

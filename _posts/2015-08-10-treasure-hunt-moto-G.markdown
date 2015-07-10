@@ -23,11 +23,11 @@ Rip the sheet and you found the clues :
 
 > Clue #1 : A getaway along the salty waters refreshes your mind, body, soul and mouth.
 
-[![CAM00138.jpg](https://d23f6h5jpj26xu.cloudfront.net/wzz94gmcnoi1ka_small.jpg)](http://img.svbtle.com/wzz94gmcnoi1ka.jpg)
+[![2.jpg](http://geeksrik.github.io/media/th/2.jpg)](http://geeksrik.github.io/media/th/2.jpg)
 
 A little bit of thought and she was able to guess this one - a bar of Ghirardelli Sea Salt Escape chocolate kept in the fridge. Down she ran all the way from first floor and found the next clue in the fridge
 
-[![CAM00135.jpg](https://d23f6h5jpj26xu.cloudfront.net/urjur1wllfmsgw_small.jpg)](http://img.svbtle.com/urjur1wllfmsgw.jpg)
+[![3.jpg](http://geeksrik.github.io/media/th/3.jpg)](http://geeksrik.github.io/media/th/3.jpg)
 
 > Clue #2 : The rather long story of squeezing a sugar confectionery better be short
 
@@ -35,21 +35,21 @@ No matter how long she could not guage this one and it stumped her. i had to pus
 
 There she came across the next clue.
 
-[![CAM00134.jpg](https://d23f6h5jpj26xu.cloudfront.net/gtd0wob075dw_small.jpg)](http://img.svbtle.com/gtd0wob075dw.jpg)
+[![4.jpg](http://geeksrik.github.io/media/th/4.jpg)](http://geeksrik.github.io/media/th/4.jpg)
 
 > Clue #3 : You've always lived life with a simple uncouth unsophisticated RUSTIC guy.
 
 No matter what, she again could not decipher this even though the word RUSTIC was clearly written in capitals. After egging her on a bit more and narrowing down to what I wear she realized the answer. And the next clue was to be found on my T-Shirt
 
-[![CAM00133.jpg](https://d23f6h5jpj26xu.cloudfront.net/trx0vbspf7soeg_small.jpg)](http://img.svbtle.com/trx0vbspf7soeg.jpg)
+[![5.jpg](http://geeksrik.github.io/media/th/5.jpg)](http://geeksrik.github.io/media/th/5.jpg)
 
 > Clue #4 : When thou shalt encounter the Merlion the bell shalt ring
 
 She definitely zeroed in on this one much faster and down she ran again to the ground floor to fetch the bell, a momento from Singapore where the next clue was to be found.
 
-[![CAM00136.jpg](https://d23f6h5jpj26xu.cloudfront.net/yqfxyjeppmq0oq_small.jpg)](http://img.svbtle.com/yqfxyjeppmq0oq.jpg)
+[![6.jpg](http://geeksrik.github.io/media/th/6.jpg)](http://geeksrik.github.io/media/th/6.jpg)
 
-[![CAM00137.jpg](https://d23f6h5jpj26xu.cloudfront.net/4rfkz9thda1ljw_small.jpg)](http://img.svbtle.com/4rfkz9thda1ljw.jpg)
+[![7.jpg](http://geeksrik.github.io/media/th/7.jpg)](http://geeksrik.github.io/media/th/7.jpg)
 
 > Clue #5 : I hope you don't feel like the lady who had a tragic affair with Count Vronsky
 
@@ -57,46 +57,46 @@ Pat came the reply again that it meant Anna Karenina the lady whose married life
 
 It took a while to expose the brilliance of the next secret clue - something written with charcoal pencil right on the body of the Kindle itself
 
-[![CAM00129.jpg](https://d23f6h5jpj26xu.cloudfront.net/p2gisamrqa7bew_small.jpg)](http://img.svbtle.com/p2gisamrqa7bew.jpg)
+[![8.jpg](http://geeksrik.github.io/media/th/8.jpg)](http://geeksrik.github.io/media/th/8.jpg)
 
 > Clue #6 : Life is a book of activities. We finish 10 pages today. The magic square shall spill the secret.
 
 Fairly easy enough to guess after both our kids have tortured us so much with this famous book, she turned to page 10 on the book of 500 activities. The magic square gave the next easy clue.
 
-[![CAM00132.jpg](https://d23f6h5jpj26xu.cloudfront.net/i6jwbwtnlqekg_small.jpg)](http://img.svbtle.com/i6jwbwtnlqekg.jpg)
+[![9.jpg](http://geeksrik.github.io/media/th/9.jpg)](http://geeksrik.github.io/media/th/9.jpg)
 
 > Clue #7 : Abracadabra ! and the Rabbit's out of the magician's hat
 
 Again the clue was an easy one which led her straight to the magician's hat.
 
-[![CAM00131.jpg](https://d23f6h5jpj26xu.cloudfront.net/axij2v1lw55qoq_small.jpg)](http://img.svbtle.com/axij2v1lw55qoq.jpg)
+[![10.jpg](http://geeksrik.github.io/media/th/10.jpg)](http://geeksrik.github.io/media/th/10.jpg)
 
 > Clue #8 : OOPS !! Its a frog and its LEAPing really high
 
 This one stumped her though she had seen the toy over and over again in the house. Egging her on a bit more and she managed to understand. The next place to go to was to the LEAP FROG educational toy our kids play with.
 
-[![CAM00159.jpg](https://d23f6h5jpj26xu.cloudfront.net/bgr6jzwnfdjpq_small.jpg)](http://img.svbtle.com/bgr6jzwnfdjpq.jpg)
+[![11.jpg](http://geeksrik.github.io/media/th/11.jpg)](http://geeksrik.github.io/media/th/11.jpg)
 
-[![CAM00127.jpg](https://d23f6h5jpj26xu.cloudfront.net/mkcukledvdr5pg_small.jpg)](http://img.svbtle.com/mkcukledvdr5pg.jpg)
+[![12.jpg](http://geeksrik.github.io/media/th/12.jpg)](http://geeksrik.github.io/media/th/12.jpg)
 
 > Clue #9 : A boat, a car, a Bridge and a train, a little more taller and I'll ride a plane
 
 She got a bit stuck up on this one as well but I managed to push her forward until she found the next clue on a custom made height chart we ordered for our kids. 
 
-[![CAM00128.jpg](https://d23f6h5jpj26xu.cloudfront.net/dwxwwryf0kpm6g_small.jpg)](http://img.svbtle.com/dwxwwryf0kpm6g.jpg)
+[![13.jpg](http://geeksrik.github.io/media/th/13.jpg)](http://geeksrik.github.io/media/th/13.jpg)
 
 > Clue #10 : ***An Anniversary is a revisit to those shared special moments its a time to rekindle emotions of fresh romance*** Every relationship is fragile and so is your GIFT. You need to handle both the same way - with lot of care. 
 
 She almost went blank on this one. She thought her gift for her anniversary is ME :-) **oh how sweet**. She also said maybe she needs to give me a hug. She didn't get the point. The exact clue, the exact fonts, the exact words everything pointed to one thing and one thing alone - our 5th Anniversary photograph kept high up with a set of portraits. 
 
-[![CAM00160.jpg](https://d23f6h5jpj26xu.cloudfront.net/lnmkubyck6xoa_small.jpg)](http://img.svbtle.com/lnmkubyck6xoa.jpg)
+[![14.jpg](http://geeksrik.github.io/media/th/14.jpg)](http://geeksrik.github.io/media/th/14.jpg)
 
-[![CAM00150.jpg](https://d23f6h5jpj26xu.cloudfront.net/xls5s7ho5mlvba_small.jpg)](http://img.svbtle.com/xls5s7ho5mlvba.jpg)
+[![15.jpg](http://geeksrik.github.io/media/th/15.jpg)](http://geeksrik.github.io/media/th/15.jpg)
 
 When she took the photograph out, and held it in her hand, there she found the 10th Anniversary gift, gleaming in the room light. 
 
 The **MOTO G** was her's to keep along with the sweet smile on her face :-)
 
-[![CAM00126.jpg](https://d23f6h5jpj26xu.cloudfront.net/hudqpqgagx8ma_small.jpg)](http://img.svbtle.com/hudqpqgagx8ma.jpg)
+[![16.jpg](http://geeksrik.github.io/media/th/16.jpg)](http://geeksrik.github.io/media/th/16.jpg)
 
 *What seemed like just yet another anniversary was spruced up so differently in just one hour of time. I hope you enjoyed the treasure hunt dear wifey, as much as i liked creating it for you*

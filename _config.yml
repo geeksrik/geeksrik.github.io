@@ -5,7 +5,7 @@ title: 						"srik.in"
 email: 						"reachme@srik.in"
 description: 				"Srik.in is the personal website of Srikanth Eswaran who lives in Bangalore, India."
 baseurl: 					""
-url: 						"http://geeksrik.github.io"
+url: 						"http://srik.in"
 logourl: 					"/assets/img/bloglogo.jpg"		
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5

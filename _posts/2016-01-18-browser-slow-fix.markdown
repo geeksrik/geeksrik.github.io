@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple fix for slow browsers"
-date:   2016-18-01 06:19:49
+date:   2016-01-18 06:19:49
 categories: slow, browsers, loading
 banner_image: ""
 featured: false

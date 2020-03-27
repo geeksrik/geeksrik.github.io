@@ -2,7 +2,7 @@
 layout: post
 title:  "The Moto G anniversary gift treasure hunt"
 categories: Treasure hunt
-featured: true
+featured: false
 hidden: true
 comments: true
 ---

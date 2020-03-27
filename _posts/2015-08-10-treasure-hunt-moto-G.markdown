@@ -4,7 +4,7 @@ title:  "The Moto G anniversary gift treasure hunt"
 date:   2015-07-10 06:19:49
 categories: Treasure hunt
 banner_image: ""
-featured: false
+featured: true
 comments: true
 ---
 

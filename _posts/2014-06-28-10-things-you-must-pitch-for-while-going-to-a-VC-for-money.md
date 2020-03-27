@@ -1,22 +1,17 @@
----
-layout: post
-title:  "10 things you must pitch for while going to a VC for money"
-author: srikanth
-categories: [ VC, funding ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of sriky Inception movie. Acting, plot and something else in this short description."
-featured: true
-hidden: true
-rating: 4.5
----
+I had an email from a friend which contained the below presentation showing what
+is important when you talk to VC's for getting them to invest on you or your
+company. I would not want to write too much in detail, but will leave you with
+the video for you to see and enjoy.
 
+ 
 
-<p style="text-align: justify;">I had an email from a friend which contained the below presentation showing what is important when you talk to VC's for getting them to invest on you or your company. I would not want to write too much in detail, but will leave you with the video for you to see and enjoy.</p>
-<p style="text-align: justify;">
+![](/Users/srikanth.eswaran/Desktop/Screenshot 2020-02-03 at 10.40.22 AM.png)
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/612849" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+ 
 
+<http://www.slideshare.net/slideshow/embed_code/612849>
 
+ 
 
-<p style="text-align: justify;">There are many comments for and against this presentation. Its upto my readers to make their opinions out of this presentation for themselves !.</p>
+There are many comments for and against this presentation. Its upto my readers
+to make their opinions out of this presentation for themselves !.

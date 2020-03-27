@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "10 things you must pitch for while going to a VC for money"
-date:   2014-06-28 04:07:49
 categories: [ VC, funding ]
 featured: true
 ---

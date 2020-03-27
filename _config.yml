@@ -1,54 +1,72 @@
+# Site
+name: "Mediumish"
+title: "Mediumish"
+description: "Jekyll template, Medium styled, free for bloggers."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /mediumish-theme-jekyll
+google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
 
+# Authors
+authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
-# Site Settings
-title: 						"srik.in"
-email: 						"reachme@srik.in"
-description: 				"Srik.in is the personal website of Srikanth Eswaran who lives in Bangalore, India."
-baseurl: 					""
-url: 						"http://srik.in"
-logourl: 					"/assets/img/bloglogo.jpg"		
-fa-logo: 					"fa-bookmark-o"
-paginate: 					5
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-# Author Settings
-author_name: 				"Srikanth Eswaran"
-author_url: 				"http://srik.in"
-author_bio: 				"Srikanth Eswaran has seen nearly three decades of lifestyle across three generations starting from India being the land of snake charmers to the country becoming the next infrastructural superpower. In this time, he has been through some demanding situations, trials and tribulations which has made him a polished and mature individual who is now poised to handle what life throws at him. His interests lie in writing, discussing online, photography, web-design, software project management and methodologies and automobiles to name a few."
-author_email: 				"reachme@srik.in"
-author_image: 				"/assets/img/authorimage.jpg"
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
 
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
 
-# Social Settings
-twitter_url: 				"https://twitter.com/geeksrik"
-facebook_url: 				"https://www.facebook.com/geeksrik"
-github_url:  				"http://github.com/geeksrik"
-youtube_url:  				"https://www.youtube.com/user/srikgeek"
-dribbble_url:  				""
-googleplus_url: 			"https://plus.google.com/+SrikanthEswaran"
-instagram_url:  			""
-pinterest_url:  			""
-linkedin_url:  				"https://in.linkedin.com/in/sriky"
-
-
-# Theme Settings
-theme_disqus_shortname: 	"geeksrik"
-theme_google_comments: 		true
-theme_analytics_id: 		"UA-28282324-1"
-theme_analytics_domain: 	"ecko.me"
-theme_reading_time: 		true
-theme_autoload_comments: 	false
-theme_always_show_nav: 		false
-
-
-# SASS Settings
-# DO NOT MODIFY
-sass:
- sass_dir: "assets/css/"
- style: :compressed
-
-
-# Build Settings
-markdown: 					kramdown
-permalink: 					pretty
-
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

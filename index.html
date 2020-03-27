@@ -1,40 +1,61 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="profile">
-	{% if site.logourl != "" %}<img src="{{ site.logourl }}" class="profileimage" alt="user">{% endif %}
-	<h4>{{ site.title }}</h4>
-	<p>{{ site.description }}</p>
-	<hr>
-</div>
+{% if page.url == "/" %}
 
-<section class="posts postindex wrapper">
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+    <div class="section-title">
+        <h2><span>Featured</span></h2>
+    </div>
+    <div class="row">
 
-	{% for post in paginator.posts %}
-		<article class="post {% if post.featured == true %} featured {% endif %}">
-			<header>
-				<div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
-				<h2>
-					{% for category in post.categories %}
-					{{ category }} 
-					{% endfor %}
-				</h2>
-				<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-				<span>
-					Posted on <i class="fa fa-clock-o"></i><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>.
-				</span>
-				<div class="excerpt">
-					{% if post.content contains '<!--more-->' %}
-						{{ post.content | split:'<!--more-->' | first }}
-					{% else %}
-						{{ post.content }}   
-					{% endif %}
-				</div>
-			</header>
-		</article>
-	{% endfor %}
+    {% for post in site.posts %}
 
-	{% include pagination.html %}
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>All Stories</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
 
 </section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+

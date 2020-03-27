@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title:  "10 things you must pitch for while going to a VC for money"
 author: srikanth
